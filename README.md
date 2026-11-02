@@ -2,7 +2,7 @@
   <img src="ascii-rest-big-text.gif" width="100%">
 </p>
 
-# 👋 I'm Rafi!
+# 👋 I'm Tanvir!
 
 I'm a Computer Science graduate from Goldsmiths, University of London, interested in AI, software, and the ways technology can solve real problems and crises.
 
