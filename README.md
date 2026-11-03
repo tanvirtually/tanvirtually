@@ -28,4 +28,4 @@ I'm always happy to connect, discuss projects, or explore opportunities.
 
 *Thanks for stopping by! ⭐*
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=actuallyrafi.actuallyrafi)](https://github.com/actuallyrafi)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tanvirtually.tanvirtually)](https://github.com/tanvirtually)
